@@ -5,7 +5,7 @@ translation_of: Web/API/CanvasRenderingContext2D/globalCompositeOperation
 ---
 {{APIRef}}
 
-La propriété **`CanvasRenderingContext2D`\*\***`.globalCompositeOperation`\*\* de l'API Canvas 2D définit le type d'opération de composition à appliquer lors du tracé de nouvelles formes.
+La propriété **`CanvasRenderingContext2D.globalCompositeOperation`** de l'API Canvas 2D définit le type d'opération de composition à appliquer lors du tracé de nouvelles formes.
 
 Voir aussi [Composition et découpe](/fr/docs/Tutoriel_canvas/Composition) dans le [Tutoriel canvas](/fr/docs/Tutoriel_canvas).
 
@@ -15,11 +15,7 @@ Voir aussi [Composition et découpe](/fr/docs/Tutoriel_canvas/Composition) dan
 
 `type` est de type {{jsxref("String")}} et permet de choisir quelle opération de composition ou de mode fondu utiliser.
 
-### Types
-
-{{EmbedLiveSample("Compositing_example", 750, 6900, "" ,"Web/API/Canvas_API/Tutorial/Compositing/Example")}}
-
-## Examples
+## Exemples
 
 ### Changer l'opération de composition
 
@@ -48,7 +44,7 @@ ctx.fillRect(50, 50, 100, 100);
 
 #### Résultat
 
-{{ EmbedLiveSample('Changing_the_composite_operation', 700, 180) }}
+{{ EmbedLiveSample('Exemples', 700, 180) }}
 
 ## Spécifications
 

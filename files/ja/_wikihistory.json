@@ -817,12 +817,6 @@
       "mfuji09"
     ]
   },
-  "Glossary/Client_hints": {
-    "modified": "2020-03-27T14:30:49.281Z",
-    "contributors": [
-      "Wind1808"
-    ]
-  },
   "Glossary/Closure": {
     "modified": "2019-03-23T22:37:50.037Z",
     "contributors": [
@@ -2443,6 +2437,12 @@
     "contributors": [
       "ksugimori",
       "Wind1808"
+    ]
+  },
+  "Glossary/Plugin": {
+    "modified": "2019-01-16T16:09:13.641Z",
+    "contributors": [
+      "Nog"
     ]
   },
   "Glossary/Polyfill": {
@@ -5531,7 +5531,7 @@
       "chameleonhead"
     ]
   },
-  "Learn/JavaScript/Objects/Inheritance": {
+  "Learn/JavaScript/Objects/Classes_in_JavaScript": {
     "modified": "2020-12-12T19:47:14.522Z",
     "contributors": [
       "eldesh",
@@ -5552,19 +5552,6 @@
       "Uemmra3",
       "i12o",
       "r-tamura"
-    ]
-  },
-  "Learn/JavaScript/Objects/Object-oriented_JS": {
-    "modified": "2020-12-06T14:17:48.495Z",
-    "contributors": [
-      "eldesh",
-      "silverskyvicto",
-      "mfuji09",
-      "JuthaDDA",
-      "Uemmra3",
-      "hamasaki",
-      "kenji-yamasaki",
-      "sii"
     ]
   },
   "Learn/JavaScript/Objects/Object_building_practice": {
@@ -6235,16 +6222,6 @@
       "wbamberg",
       "5ara5treamer",
       "hamasaki"
-    ]
-  },
-  "MDN/Guidelines/CSS_style_guide": {
-    "modified": "2020-09-30T15:30:25.061Z",
-    "contributors": [
-      "chrisdavidmills",
-      "mfuji09",
-      "silverskyvicto",
-      "wbamberg",
-      "Uemmra3"
     ]
   },
   "MDN/Guidelines/Code_guidelines": {
@@ -8973,18 +8950,6 @@
       "Potappo",
       "myakura",
       "Kohei"
-    ]
-  },
-  "Plugins/Guide/Constants": {
-    "modified": "2019-01-16T16:09:13.641Z",
-    "contributors": [
-      "Nog"
-    ]
-  },
-  "Plugins/Roadmap": {
-    "modified": "2019-03-18T21:35:38.258Z",
-    "contributors": [
-      "momdo"
     ]
   },
   "Tools": {
@@ -11782,6 +11747,12 @@
       "mfuji09"
     ]
   },
+  "Web/API/CredentialsContainer/create": {
+    "modified": "2020-10-15T22:26:48.406Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
   "Web/API/Crypto": {
     "modified": "2020-10-15T21:59:23.127Z",
     "contributors": [
@@ -13543,12 +13514,6 @@
     "modified": "2020-10-15T22:34:32.252Z",
     "contributors": [
       "silverskyvicto"
-    ]
-  },
-  "Web/API/EffectTiming": {
-    "modified": "2020-10-15T22:09:51.091Z",
-    "contributors": [
-      "kay8"
     ]
   },
   "Web/API/Element": {
@@ -17952,6 +17917,12 @@
       "silverskyvicto"
     ]
   },
+  "Web/API/KeyframeEffect/KeyframeEffect": {
+    "modified": "2020-10-15T22:09:51.091Z",
+    "contributors": [
+      "kay8"
+    ]
+  },
   "Web/API/LocalFileSystem": {
     "modified": "2020-10-15T22:11:54.611Z",
     "contributors": [
@@ -17987,7 +17958,7 @@
       "Wind1808"
     ]
   },
-  "Web/API/MediaCapabilitiesInfo": {
+  "Web/API/MediaCapabilities/encodingInfo": {
     "modified": "2020-10-15T22:24:30.759Z",
     "contributors": [
       "Wind1808"
@@ -18346,12 +18317,6 @@
   },
   "Web/API/MediaStream/onaddtrack": {
     "modified": "2019-03-18T21:45:17.222Z",
-    "contributors": [
-      "e53e04ac"
-    ]
-  },
-  "Web/API/MediaStreamConstraints": {
-    "modified": "2019-03-18T21:40:37.855Z",
     "contributors": [
       "e53e04ac"
     ]
@@ -20406,13 +20371,6 @@
       "Wind1808"
     ]
   },
-  "Web/API/PositionOptions": {
-    "modified": "2019-03-23T22:19:48.329Z",
-    "contributors": [
-      "Uemmra3",
-      "unarist"
-    ]
-  },
   "Web/API/ProgressEvent": {
     "modified": "2019-03-23T22:24:26.847Z",
     "contributors": [
@@ -20468,24 +20426,6 @@
   },
   "Web/API/PublicKeyCredential/rawId": {
     "modified": "2020-10-15T22:15:57.077Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/API/PublicKeyCredentialCreationOptions": {
-    "modified": "2020-10-15T22:26:51.081Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/API/PublicKeyCredentialCreationOptions/authenticatorSelection": {
-    "modified": "2020-10-15T22:26:48.406Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/API/PublicKeyCredentialCreationOptions/excludeCredentials": {
-    "modified": "2020-10-15T22:26:49.264Z",
     "contributors": [
       "mfuji09"
     ]
@@ -20636,12 +20576,6 @@
       "chrisdavidmills"
     ]
   },
-  "Web/API/RTCConfiguration": {
-    "modified": "2019-03-23T22:51:27.389Z",
-    "contributors": [
-      "dreissig.jahrhundert"
-    ]
-  },
   "Web/API/RTCDataChannel": {
     "modified": "2020-10-15T21:37:37.878Z",
     "contributors": [
@@ -20662,6 +20596,12 @@
       "eltociear",
       "mfuji09",
       "takamin",
+      "dreissig.jahrhundert"
+    ]
+  },
+  "Web/API/RTCPeerConnection/RTCPeerConnection": {
+    "modified": "2019-03-23T22:51:27.389Z",
+    "contributors": [
       "dreissig.jahrhundert"
     ]
   },
@@ -21499,12 +21439,6 @@
       "Wind1808"
     ]
   },
-  "Web/API/ServiceWorkerGlobalScope/caches": {
-    "modified": "2020-10-15T22:29:46.631Z",
-    "contributors": [
-      "Wind1808"
-    ]
-  },
   "Web/API/ServiceWorkerGlobalScope/clients": {
     "modified": "2019-03-23T22:21:03.744Z",
     "contributors": [
@@ -22181,27 +22115,6 @@
       "yyss"
     ]
   },
-  "Web/API/StorageEstimate": {
-    "modified": "2020-10-15T22:20:05.823Z",
-    "contributors": [
-      "Uemmra3",
-      "Wind1808"
-    ]
-  },
-  "Web/API/StorageEstimate/quota": {
-    "modified": "2020-10-15T22:20:08.643Z",
-    "contributors": [
-      "Uemmra3",
-      "Wind1808"
-    ]
-  },
-  "Web/API/StorageEstimate/usage": {
-    "modified": "2020-10-15T22:20:08.494Z",
-    "contributors": [
-      "Uemmra3",
-      "Wind1808"
-    ]
-  },
   "Web/API/StorageEvent": {
     "modified": "2019-10-27T14:31:31.975Z",
     "contributors": [
@@ -22585,13 +22498,6 @@
       "Sebastianz",
       "ethertank",
       "Potappo"
-    ]
-  },
-  "Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent": {
-    "modified": "2019-03-18T20:45:32.564Z",
-    "contributors": [
-      "mfuji09",
-      "YuichiNukiyama"
     ]
   },
   "Web/API/TrackEvent": {
@@ -23666,32 +23572,6 @@
   "Web/API/WebSocket/message_event": {
     "modified": "2020-10-15T22:27:02.973Z",
     "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/API/WebSocket/onclose": {
-    "modified": "2020-09-25T11:45:51.374Z",
-    "contributors": [
-      "maechabin"
-    ]
-  },
-  "Web/API/WebSocket/onerror": {
-    "modified": "2020-10-15T22:27:10.724Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/API/WebSocket/onmessage": {
-    "modified": "2020-10-15T22:27:03.005Z",
-    "contributors": [
-      "maechabin",
-      "mfuji09"
-    ]
-  },
-  "Web/API/WebSocket/onopen": {
-    "modified": "2020-10-15T22:27:03.150Z",
-    "contributors": [
-      "Mr.Chenzm",
       "mfuji09"
     ]
   },
@@ -26408,20 +26288,8 @@
       "davidbrouillette"
     ]
   },
-  "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alert_role": {
-    "modified": "2019-03-18T21:24:32.583Z",
-    "contributors": [
-      "8845musign"
-    ]
-  },
   "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role": {
     "modified": "2019-03-18T21:10:44.737Z",
-    "contributors": [
-      "Wind1808"
-    ]
-  },
-  "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-activedescendant_attribute": {
-    "modified": "2019-03-18T20:45:37.166Z",
     "contributors": [
       "Wind1808"
     ]
@@ -28177,14 +28045,6 @@
       "ExE-Boss"
     ]
   },
-  "Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property": {
-    "modified": "2020-12-06T14:47:19.654Z",
-    "contributors": [
-      "mfuji09",
-      "ExE-Boss",
-      "hommaam"
-    ]
-  },
   "Web/CSS/CSS_Box_Alignment": {
     "modified": "2020-05-22T07:14:00.686Z",
     "contributors": [
@@ -28325,6 +28185,16 @@
     "modified": "2020-10-15T22:04:14.575Z",
     "contributors": [
       "mfuji09"
+    ]
+  },
+  "Web/CSS/CSS_Counter_Styles/Using_CSS_counters": {
+    "modified": "2020-08-18T01:07:42.151Z",
+    "contributors": [
+      "mfuji09",
+      "LuckyWind_sck",
+      "ethertank",
+      "sosleepy",
+      "sii"
     ]
   },
   "Web/CSS/CSS_Device_Adaptation": {
@@ -28580,16 +28450,6 @@
       "mfuji09"
     ]
   },
-  "Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters": {
-    "modified": "2020-08-18T01:07:42.151Z",
-    "contributors": [
-      "mfuji09",
-      "LuckyWind_sck",
-      "ethertank",
-      "sosleepy",
-      "sii"
-    ]
-  },
   "Web/CSS/CSS_Logical_Properties": {
     "modified": "2020-08-06T03:13:13.668Z",
     "contributors": [
@@ -28751,13 +28611,6 @@
   "Web/CSS/CSS_Scroll_Snap": {
     "modified": "2019-03-18T21:30:31.785Z",
     "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/CSS/CSS_Scroll_Snap/Browser_compat": {
-    "modified": "2020-02-21T23:37:52.316Z",
-    "contributors": [
-      "yuheiy",
       "mfuji09"
     ]
   },
@@ -29114,12 +28967,6 @@
       "Marsf",
       "Taken",
       "haccy"
-    ]
-  },
-  "Web/CSS/List_of_Proprietary_CSS_Features": {
-    "modified": "2019-03-18T21:33:15.134Z",
-    "contributors": [
-      "mfuji09"
     ]
   },
   "Web/CSS/Media_Queries/Testing_media_queries": {
@@ -35880,6 +35727,12 @@
       "yyss"
     ]
   },
+  "Web/HTTP/Client_hints": {
+    "modified": "2020-03-27T14:30:49.281Z",
+    "contributors": [
+      "Wind1808"
+    ]
+  },
   "Web/HTTP/Compression": {
     "modified": "2019-08-24T03:15:46.627Z",
     "contributors": [
@@ -36507,17 +36360,10 @@
       "mfuji09"
     ]
   },
-  "Web/HTTP/Headers/Feature-Policy/vr": {
+  "Web/HTTP/Headers/Feature-Policy/xr-spatial-tracking": {
     "modified": "2020-10-15T22:11:22.366Z",
     "contributors": [
       "mfuji09"
-    ]
-  },
-  "Web/HTTP/Headers/Feature-Policy/xr": {
-    "modified": "2020-08-12T12:42:41.854Z",
-    "contributors": [
-      "mfuji09",
-      "tamura4278"
     ]
   },
   "Web/HTTP/Headers/Forwarded": {
@@ -46611,16 +46457,6 @@
       "chrisdavidmills"
     ]
   },
-  "Web/Progressive_web_apps/Responsive/Media_types": {
-    "modified": "2020-05-24T03:45:53.652Z",
-    "contributors": [
-      "mfuji09",
-      "teoli",
-      "siokoshou",
-      "ethertank",
-      "sosleepy"
-    ]
-  },
   "Web/SVG": {
     "modified": "2020-04-07T10:06:05.125Z",
     "contributors": [
@@ -48594,6 +48430,35 @@
       "silverskyvicto"
     ]
   },
+  "conflicting/Glossary/Plugin": {
+    "modified": "2019-03-18T21:35:38.258Z",
+    "contributors": [
+      "momdo"
+    ]
+  },
+  "conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript": {
+    "modified": "2020-12-06T14:17:48.495Z",
+    "contributors": [
+      "eldesh",
+      "silverskyvicto",
+      "mfuji09",
+      "JuthaDDA",
+      "Uemmra3",
+      "hamasaki",
+      "kenji-yamasaki",
+      "sii"
+    ]
+  },
+  "conflicting/MDN/Contribute/Markdown_in_MDN": {
+    "modified": "2020-09-30T15:30:25.061Z",
+    "contributors": [
+      "chrisdavidmills",
+      "mfuji09",
+      "silverskyvicto",
+      "wbamberg",
+      "Uemmra3"
+    ]
+  },
   "conflicting/Web/API/Blob/size": {
     "modified": "2020-09-25T16:46:05.461Z",
     "contributors": [
@@ -48603,6 +48468,18 @@
       "ethertank"
     ]
   },
+  "conflicting/Web/API/CredentialsContainer/create": {
+    "modified": "2020-10-15T22:26:49.264Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
+  "conflicting/Web/API/CredentialsContainer/create_18148a708412fc42b1affe2f08eab270": {
+    "modified": "2020-10-15T22:26:51.081Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
   "conflicting/Web/API/File/name": {
     "modified": "2020-09-25T16:45:23.436Z",
     "contributors": [
@@ -48610,6 +48487,73 @@
       "mfuji09",
       "fscholz",
       "ethertank"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition": {
+    "modified": "2019-03-23T22:19:48.329Z",
+    "contributors": [
+      "Uemmra3",
+      "unarist"
+    ]
+  },
+  "conflicting/Web/API/MediaDevices/getUserMedia": {
+    "modified": "2019-03-18T21:40:37.855Z",
+    "contributors": [
+      "e53e04ac"
+    ]
+  },
+  "conflicting/Web/API/Pointer_events": {
+    "modified": "2019-03-18T20:45:32.564Z",
+    "contributors": [
+      "mfuji09",
+      "YuichiNukiyama"
+    ]
+  },
+  "conflicting/Web/API/StorageManager/estimate": {
+    "modified": "2020-10-15T22:20:05.823Z",
+    "contributors": [
+      "Uemmra3",
+      "Wind1808"
+    ]
+  },
+  "conflicting/Web/API/StorageManager/estimate_78aa4ffd4dfacc8f94d5c05d150d36ac": {
+    "modified": "2020-10-15T22:20:08.643Z",
+    "contributors": [
+      "Uemmra3",
+      "Wind1808"
+    ]
+  },
+  "conflicting/Web/API/StorageManager/estimate_9ffeea37c30a26922d3f1621912db8d8": {
+    "modified": "2020-10-15T22:20:08.494Z",
+    "contributors": [
+      "Uemmra3",
+      "Wind1808"
+    ]
+  },
+  "conflicting/Web/API/WebSocket/close_event": {
+    "modified": "2020-09-25T11:45:51.374Z",
+    "contributors": [
+      "maechabin"
+    ]
+  },
+  "conflicting/Web/API/WebSocket/error_event": {
+    "modified": "2020-10-15T22:27:10.724Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
+  "conflicting/Web/API/WebSocket/message_event": {
+    "modified": "2020-10-15T22:27:03.005Z",
+    "contributors": [
+      "maechabin",
+      "mfuji09"
+    ]
+  },
+  "conflicting/Web/API/WebSocket/open_event": {
+    "modified": "2020-10-15T22:27:03.150Z",
+    "contributors": [
+      "Mr.Chenzm",
+      "mfuji09"
     ]
   },
   "conflicting/Web/API/Window/scroll": {
@@ -48628,6 +48572,56 @@
     "modified": "2020-12-08T09:23:22.538Z",
     "contributors": [
       "Wind1808"
+    ]
+  },
+  "conflicting/Web/API/caches": {
+    "modified": "2020-10-15T22:29:46.631Z",
+    "contributors": [
+      "Wind1808"
+    ]
+  },
+  "conflicting/Web/Accessibility/ARIA/Roles/alert_role": {
+    "modified": "2019-03-18T21:24:32.583Z",
+    "contributors": [
+      "8845musign"
+    ]
+  },
+  "conflicting/Web/CSS/CSS_Scroll_Snap": {
+    "modified": "2020-02-21T23:37:52.316Z",
+    "contributors": [
+      "yuheiy",
+      "mfuji09"
+    ]
+  },
+  "conflicting/Web/CSS/Media_Queries/Using_media_queries": {
+    "modified": "2020-05-24T03:45:53.652Z",
+    "contributors": [
+      "mfuji09",
+      "teoli",
+      "siokoshou",
+      "ethertank",
+      "sosleepy"
+    ]
+  },
+  "conflicting/Web/CSS/Reference": {
+    "modified": "2019-03-18T21:33:15.134Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
+  "conflicting/Web/CSS/cursor": {
+    "modified": "2020-12-06T14:47:19.654Z",
+    "contributors": [
+      "mfuji09",
+      "ExE-Boss",
+      "hommaam"
+    ]
+  },
+  "conflicting/Web/HTTP/Headers/Feature-Policy/xr-spatial-tracking": {
+    "modified": "2020-08-12T12:42:41.854Z",
+    "contributors": [
+      "mfuji09",
+      "tamura4278"
     ]
   },
   "conflicting/Web/Web_Components": {
@@ -49645,6 +49639,12 @@
     "contributors": [
       "Taken",
       "Mgjbot"
+    ]
+  },
+  "web/Accessibility/ARIA/Attributes/aria-activedescendant": {
+    "modified": "2019-03-18T20:45:37.166Z",
+    "contributors": [
+      "Wind1808"
     ]
   }
 }

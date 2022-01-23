@@ -1,17 +1,11 @@
 ---
 title: CanvasRenderingContext2D.textAlign
 slug: Web/API/CanvasRenderingContext2D/textAlign
-tags:
-  - API
-  - Canvas
-  - CanvasRenderingContext2D
-  - Propriété
-  - Reference
 translation_of: Web/API/CanvasRenderingContext2D/textAlign
 ---
 {{APIRef}}
 
-La propriété **`CanvasRenderingContext2D`\*\***`.textAlign`** de l'API Canvas 2D indique l'alignement de texte courant à utiliser lors du dessin de texte. Faites attention au fait que l'alignement a pour base la valeur x de la méthode CanvasRenderingContext2D.**fillText\*\*. Ainsi, si textAlign="center", le texte sera alors dessiné en x-50%\*width.
+La propriété **`CanvasRenderingContext2D.textAlign`** de l'API Canvas 2D indique l'alignement de texte courant à utiliser lors du dessin de texte. Faites attention au fait que l'alignement a pour base la valeur x de la méthode `CanvasRenderingContext2D.fillText` Ainsi, si textAlign="center", le texte sera alors dessiné en x-50%\*width.
 
 ## Syntaxe
 
@@ -59,7 +53,7 @@ ctx.strokeText('Hello world', 0, 100);
 
 Modifier le code ci-dessous et voyez vos changements mis à jour en temps réel dans le canevas :
 
-#### Playable code
+#### Code jouable
 
 ```html hidden
 <canvas id="canvas" width="400" height="200" class="playable-canvas"></canvas>
@@ -99,7 +93,7 @@ textarea.addEventListener('input', drawCanvas);
 window.addEventListener('load', drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ## Spécifications
 

@@ -1,17 +1,11 @@
 ---
 title: CanvasRenderingContext2D.drawImage()
 slug: Web/API/CanvasRenderingContext2D/drawImage
-tags:
-  - API
-  - Canvas
-  - CanvasRenderingContext2D
-  - Méthode
-  - Référence(2)
 translation_of: Web/API/CanvasRenderingContext2D/drawImage
 ---
 {{APIRef}}
 
-La méthode **`CanvasRenderingContext2D`\*\***`.drawImage()`\*\* de l'API 2D des Canvas instaure différentes manières de dessiner des images dans les balises canvas.
+La méthode **`CanvasRenderingContext2D.drawImage()`** de l'API 2D des Canvas instaure différentes manières de dessiner des images dans les balises canvas.
 
 ## Syntaxe
 
@@ -119,7 +113,7 @@ textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ## Spécifications
 

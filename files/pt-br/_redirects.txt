@@ -69,9 +69,9 @@
 /pt-BR/docs/Aprender/JavaScript/Objetos	/pt-BR/docs/Learn/JavaScript/Objects
 /pt-BR/docs/Aprender/JavaScript/Objetos/Adding_bouncing_balls_features	/pt-BR/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features
 /pt-BR/docs/Aprender/JavaScript/Objetos/Básico	/pt-BR/docs/Learn/JavaScript/Objects/Basics
-/pt-BR/docs/Aprender/JavaScript/Objetos/Herança	/pt-BR/docs/Learn/JavaScript/Objects/Inheritance
+/pt-BR/docs/Aprender/JavaScript/Objetos/Herança	/pt-BR/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
 /pt-BR/docs/Aprender/JavaScript/Objetos/JSON	/pt-BR/docs/Learn/JavaScript/Objects/JSON
-/pt-BR/docs/Aprender/JavaScript/Objetos/Object-oriented_JS	/pt-BR/docs/Learn/JavaScript/Objects/Object-oriented_JS
+/pt-BR/docs/Aprender/JavaScript/Objetos/Object-oriented_JS	/pt-BR/docs/conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript
 /pt-BR/docs/Aprender/JavaScript/Objetos/Object_building_practice	/pt-BR/docs/Learn/JavaScript/Objects/Object_building_practice
 /pt-BR/docs/Aprender/JavaScript/Objetos/Object_prototypes	/pt-BR/docs/Learn/JavaScript/Objects/Object_prototypes
 /pt-BR/docs/Aprender/Learning_and_getting_help	/pt-BR/docs/Learn/Learning_and_getting_help
@@ -399,6 +399,8 @@
 /pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript	/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 /pt-BR/docs/Learn/JavaScript/First_steps/Teste_suas_habilidades:_variaveis	/pt-BR/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables
 /pt-BR/docs/Learn/JavaScript/First_steps/Variáveis	/pt-BR/docs/Learn/JavaScript/First_steps/Variables
+/pt-BR/docs/Learn/JavaScript/Objects/Inheritance	/pt-BR/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+/pt-BR/docs/Learn/JavaScript/Objects/Object-oriented_JS	/pt-BR/docs/conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript
 /pt-BR/docs/Learn/Server-side/Django/Hospedagem	/pt-BR/docs/Learn/Server-side/Django/Deployment
 /pt-BR/docs/Learn/Server-side/Django/Introdução	/pt-BR/docs/Learn/Server-side/Django/Introduction
 /pt-BR/docs/Learn/Server-side/Django/Sessões	/pt-BR/docs/Learn/Server-side/Django/Sessions
@@ -526,6 +528,7 @@
 /pt-BR/docs/Web/API/Position	/pt-BR/docs/Web/API/GeolocationPosition
 /pt-BR/docs/Web/API/Position/coords	/pt-BR/docs/Web/API/GeolocationPosition/coords
 /pt-BR/docs/Web/API/PositionError	/pt-BR/docs/Web/API/GeolocationPositionError
+/pt-BR/docs/Web/API/PositionOptions	/pt-BR/docs/conflicting/Web/API/Geolocation/getCurrentPosition
 /pt-BR/docs/Web/API/RandomSource/getRandomValues	/pt-BR/docs/Web/API/Crypto/getRandomValues
 /pt-BR/docs/Web/API/SVGAElement/SVGAlement.target	/pt-BR/docs/Web/API/SVGAElement/target
 /pt-BR/docs/Web/API/Seleção	/pt-BR/docs/Web/API/Selection
@@ -559,7 +562,8 @@
 /pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Usando_o_atributo_aria-labelledby	/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute
 /pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Usando_o_atributo_aria-required	/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-required_attribute
 /pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Usando_o_slider_role	/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_slider_role
-/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Utilizando_o_alert_role	/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alert_role
+/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alert_role	/pt-BR/docs/Web/Accessibility/ARIA/Roles/alert_role
+/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Techniques/Utilizando_o_alert_role	/pt-BR/docs/Web/Accessibility/ARIA/Roles/alert_role
 /pt-BR/docs/Web/Accessibility/ARIA/Guia_para_implementar_o_leitor_de_tela_ARIA	/pt-BR/docs/Web/Accessibility/ARIA/ARIA_Screen_Reader_Implementors_Guide
 /pt-BR/docs/Web/Accessibility/ARIA/forms/Dicas_básicas_de_form	/pt-BR/docs/Web/Accessibility/ARIA/forms/Basic_form_hints
 /pt-BR/docs/Web/Acessibilidade	/pt-BR/docs/Web/Accessibility
@@ -579,6 +583,7 @@
 /pt-BR/docs/Web/CSS/CSS_Colors/seletor_de_cores	/pt-BR/docs/Web/CSS/CSS_Colors/Color_picker_tool
 /pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox	/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 /pt-BR/docs/Web/CSS/CSS_Images/Implementando_sprites_de_imagens_em_CSS	/pt-BR/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
+/pt-BR/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters	/pt-BR/docs/Web/CSS/CSS_Counter_Styles/Using_CSS_counters
 /pt-BR/docs/Web/CSS/CSS_Reference	/pt-BR/docs/Web/CSS/Reference
 /pt-BR/docs/Web/CSS/CSS_Reference/mix-blend-mode	/pt-BR/docs/Web/CSS/mix-blend-mode
 /pt-BR/docs/Web/CSS/CSS_Tipos	/pt-BR/docs/Web/CSS/CSS_Types

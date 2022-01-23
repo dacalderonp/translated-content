@@ -5,7 +5,7 @@ translation_of: Web/API/CanvasRenderingContext2D/stroke
 ---
 {{APIRef}}
 
-La méthode **`CanvasRenderingContext2D`\*\***`.stroke()`\*\* de l'API Canvas 2D dessine le chemin actuel ou donné avec le style de trait actuel utilisant la règle d'enroulement non nulle.
+La méthode **`CanvasRenderingContext2D.stroke()`** de l'API Canvas 2D dessine le chemin actuel ou donné avec le style de trait actuel utilisant la règle d'enroulement non nulle.
 
 ## Syntaxe
 
@@ -79,7 +79,7 @@ textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ## Spécifications
 

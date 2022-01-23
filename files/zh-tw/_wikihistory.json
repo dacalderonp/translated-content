@@ -1668,7 +1668,7 @@
       "MashKao"
     ]
   },
-  "Learn/JavaScript/Objects/Inheritance": {
+  "Learn/JavaScript/Objects/Classes_in_JavaScript": {
     "modified": "2020-07-16T22:32:17.083Z",
     "contributors": [
       "tangerine1202",
@@ -1680,17 +1680,6 @@
   "Learn/JavaScript/Objects/JSON": {
     "modified": "2020-07-16T22:32:30.018Z",
     "contributors": [
-      "roycrxtw",
-      "MashKao"
-    ]
-  },
-  "Learn/JavaScript/Objects/Object-oriented_JS": {
-    "modified": "2020-07-16T22:32:09.821Z",
-    "contributors": [
-      "DahisC",
-      "tangerine1202",
-      "iigmir",
-      "cjchng",
       "roycrxtw",
       "MashKao"
     ]
@@ -4323,34 +4312,6 @@
       "fscholz",
       "jackblackevo",
       "MashKao"
-    ]
-  },
-  "Web/API/PositionOptions": {
-    "modified": "2019-03-23T22:36:10.505Z",
-    "contributors": [
-      "alphan_chen",
-      "yachiehwu"
-    ]
-  },
-  "Web/API/PositionOptions/enableHighAccuracy": {
-    "modified": "2019-03-23T22:36:14.585Z",
-    "contributors": [
-      "alphan_chen",
-      "yachiehwu"
-    ]
-  },
-  "Web/API/PositionOptions/maximumAge": {
-    "modified": "2019-03-23T22:36:18.389Z",
-    "contributors": [
-      "alphan_chen",
-      "yachiehwu"
-    ]
-  },
-  "Web/API/PositionOptions/timeout": {
-    "modified": "2019-03-23T22:36:20.985Z",
-    "contributors": [
-      "alphan_chen",
-      "yachiehwu"
     ]
   },
   "Web/API/ProgressEvent": {
@@ -8007,6 +7968,17 @@
       "sailplaneTW"
     ]
   },
+  "conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript": {
+    "modified": "2020-07-16T22:32:09.821Z",
+    "contributors": [
+      "DahisC",
+      "tangerine1202",
+      "iigmir",
+      "cjchng",
+      "roycrxtw",
+      "MashKao"
+    ]
+  },
   "conflicting/Learn/Server-side/Django": {
     "modified": "2019-03-23T23:33:19.493Z",
     "contributors": [
@@ -8039,6 +8011,34 @@
     "modified": "2019-03-23T22:30:38.352Z",
     "contributors": [
       "jackblackevo"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition": {
+    "modified": "2019-03-23T22:36:14.585Z",
+    "contributors": [
+      "alphan_chen",
+      "yachiehwu"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition_058087067b28ad25fff974fd59827fb6": {
+    "modified": "2019-03-23T22:36:20.985Z",
+    "contributors": [
+      "alphan_chen",
+      "yachiehwu"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition_5852407122355d2ab39863042583c266": {
+    "modified": "2019-03-23T22:36:10.505Z",
+    "contributors": [
+      "alphan_chen",
+      "yachiehwu"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition_c2c285f72be001586cb95d7989ba1b54": {
+    "modified": "2019-03-23T22:36:18.389Z",
+    "contributors": [
+      "alphan_chen",
+      "yachiehwu"
     ]
   },
   "conflicting/Web/API/HTML_Drag_and_Drop_API": {

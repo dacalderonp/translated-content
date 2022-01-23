@@ -2328,7 +2328,7 @@
       "webfelipemaia"
     ]
   },
-  "Learn/JavaScript/Objects/Inheritance": {
+  "Learn/JavaScript/Objects/Classes_in_JavaScript": {
     "modified": "2020-07-16T22:32:15.784Z",
     "contributors": [
       "WellingtonFR",
@@ -2341,14 +2341,6 @@
       "euvanribeiro",
       "WellingtonFR",
       "mateus1siqueira",
-      "greysonf"
-    ]
-  },
-  "Learn/JavaScript/Objects/Object-oriented_JS": {
-    "modified": "2020-07-16T22:32:07.136Z",
-    "contributors": [
-      "rpizzolato",
-      "WellingtonFR",
       "greysonf"
     ]
   },
@@ -6050,12 +6042,6 @@
       "rbertoche"
     ]
   },
-  "Web/API/PositionOptions": {
-    "modified": "2019-03-23T22:47:40.708Z",
-    "contributors": [
-      "victorkurauchi"
-    ]
-  },
   "Web/API/ProcessingInstruction": {
     "modified": "2019-03-18T21:38:06.302Z",
     "contributors": [
@@ -7055,13 +7041,6 @@
       "Sheppy"
     ]
   },
-  "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alert_role": {
-    "modified": "2019-03-23T22:50:52.511Z",
-    "contributors": [
-      "Aschlla",
-      "iCynthia"
-    ]
-  },
   "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute": {
     "modified": "2020-01-24T10:16:14.859Z",
     "contributors": [
@@ -7105,6 +7084,13 @@
     "contributors": [
       "Painatalman",
       "rafaelcavalcante"
+    ]
+  },
+  "Web/Accessibility/ARIA/Roles/alert_role": {
+    "modified": "2019-03-23T22:50:52.511Z",
+    "contributors": [
+      "Aschlla",
+      "iCynthia"
     ]
   },
   "Web/Accessibility/ARIA/Web_applications_and_ARIA_FAQ": {
@@ -7660,6 +7646,14 @@
       "Sebastianz"
     ]
   },
+  "Web/CSS/CSS_Counter_Styles/Using_CSS_counters": {
+    "modified": "2020-08-20T10:01:26.706Z",
+    "contributors": [
+      "felipecesr",
+      "cris-luz-07",
+      "jorgeclesio"
+    ]
+  },
   "Web/CSS/CSS_Display": {
     "modified": "2020-10-15T22:22:39.686Z",
     "contributors": [
@@ -7755,14 +7749,6 @@
     "modified": "2019-03-23T22:45:37.305Z",
     "contributors": [
       "teoli"
-    ]
-  },
-  "Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters": {
-    "modified": "2020-08-20T10:01:26.706Z",
-    "contributors": [
-      "felipecesr",
-      "cris-luz-07",
-      "jorgeclesio"
     ]
   },
   "Web/CSS/CSS_Positioning": {
@@ -16324,6 +16310,14 @@
       "augustowebd"
     ]
   },
+  "conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript": {
+    "modified": "2020-07-16T22:32:07.136Z",
+    "contributors": [
+      "rpizzolato",
+      "WellingtonFR",
+      "greysonf"
+    ]
+  },
   "conflicting/MDN/Contribute/Getting_started": {
     "modified": "2019-03-23T23:38:18.895Z",
     "contributors": [
@@ -16396,6 +16390,12 @@
     "modified": "2019-03-23T23:35:40.503Z",
     "contributors": [
       "teoli"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition": {
+    "modified": "2019-03-23T22:47:40.708Z",
+    "contributors": [
+      "victorkurauchi"
     ]
   },
   "conflicting/Web/API/GlobalEventHandlers/onscroll": {

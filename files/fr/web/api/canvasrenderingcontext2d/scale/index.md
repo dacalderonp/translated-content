@@ -1,17 +1,11 @@
 ---
 title: CanvasRenderingContext2D.scale()
 slug: Web/API/CanvasRenderingContext2D/scale
-tags:
-  - API
-  - Canvas
-  - CanvasRenderingContext2D
-  - Méthode
-  - Référence(2)
 translation_of: Web/API/CanvasRenderingContext2D/scale
 ---
 {{APIRef}}
 
-La méhode **`CanvasRenderingContext2D`\*\***`.scale()`\*\* de l'API Canvas 2D ajoute une transformation de mise à l'échelle des unités du canevas, de x horizontalement et de y verticalement.
+La méhode **`CanvasRenderingContext2D.scale()`** de l'API Canvas 2D ajoute une transformation de mise à l'échelle des unités du canevas, de x horizontalement et de y verticalement.
 
 Par défaut, une unité sur le canevas est exactement un pixel. Si on applique, par exemple, un facteur d'échelle de 0,5, l'unité résultante deviendra 0,5 pixel et ainsi, les formes seront dessinées en taille moitié. De façon similaire, mettre le facteur d'échelle à 2,0 augmentera la taille de l'unité et une unité deviendra alors deux pixels. Cela aura pour résultat que les formes seront dessinées deux fois plus grandes.
 
@@ -93,7 +87,7 @@ textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ### Utilisation de `scale` pour un retournement horizontal ou vertical
 
@@ -140,7 +134,7 @@ textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable_2', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable_2', 700, 360) }}
 
 ## Spécifications
 

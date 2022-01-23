@@ -3249,7 +3249,7 @@
       "kevin-loal98"
     ]
   },
-  "Learn/JavaScript/Objects/Inheritance": {
+  "Learn/JavaScript/Objects/Classes_in_JavaScript": {
     "modified": "2020-07-28T01:53:21.821Z",
     "contributors": [
       "Fernando-Funes",
@@ -3266,25 +3266,6 @@
       "jorgeCaster",
       "pmiranda-geo",
       "Enesimus"
-    ]
-  },
-  "Learn/JavaScript/Objects/Object-oriented_JS": {
-    "modified": "2020-08-08T09:41:13.386Z",
-    "contributors": [
-      "Nachec",
-      "andyesp",
-      "Fernando-Funes",
-      "jhonarielgj",
-      "rimbener",
-      "ReneAG",
-      "EnekoOdoo",
-      "ivanagui2",
-      "cristianmarquezp",
-      "djdouta",
-      "paulaco",
-      "martinGerez",
-      "anyruizd",
-      "Michelangeur"
     ]
   },
   "Learn/JavaScript/Objects/Object_building_practice": {
@@ -3787,6 +3768,15 @@
       "L_e_o"
     ]
   },
+  "MDN/Contribute/Markdown_in_MDN": {
+    "modified": "2020-09-30T15:28:56.171Z",
+    "contributors": [
+      "chrisdavidmills",
+      "wbamberg",
+      "Jeremie",
+      "LeoHirsch"
+    ]
+  },
   "MDN/Contribute/Processes": {
     "modified": "2019-01-17T02:12:44.469Z",
     "contributors": [
@@ -3796,15 +3786,6 @@
   },
   "MDN/Guidelines": {
     "modified": "2020-09-30T15:28:55.816Z",
-    "contributors": [
-      "chrisdavidmills",
-      "wbamberg",
-      "Jeremie",
-      "LeoHirsch"
-    ]
-  },
-  "MDN/Guidelines/CSS_style_guide": {
-    "modified": "2020-09-30T15:28:56.171Z",
     "contributors": [
       "chrisdavidmills",
       "wbamberg",
@@ -7906,14 +7887,6 @@
       "joredjs"
     ]
   },
-  "Web/API/PositionOptions": {
-    "modified": "2019-03-23T23:16:28.831Z",
-    "contributors": [
-      "fscholz",
-      "LeoHirsch",
-      "lupomontero"
-    ]
-  },
   "Web/API/PushManager": {
     "modified": "2019-03-23T22:40:00.540Z",
     "contributors": [
@@ -8593,7 +8566,7 @@
       "FLAVIOALFA"
     ]
   },
-  "Web/API/WebSocket/onerror": {
+  "Web/API/WebSocket/error_event": {
     "modified": "2020-10-15T22:13:54.439Z",
     "contributors": [
       "Bumxu"
@@ -9366,13 +9339,6 @@
       "chrisdavidmills"
     ]
   },
-  "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alert_role": {
-    "modified": "2019-03-18T21:31:32.978Z",
-    "contributors": [
-      "IsraelFloresDGA",
-      "mayrars"
-    ]
-  },
   "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_alertdialog_role": {
     "modified": "2019-08-28T12:48:39.532Z",
     "contributors": [
@@ -9395,6 +9361,13 @@
     "contributors": [
       "IsraelFloresDGA",
       "Karla_Glez"
+    ]
+  },
+  "Web/Accessibility/ARIA/Roles/alert_role": {
+    "modified": "2019-03-18T21:31:32.978Z",
+    "contributors": [
+      "IsraelFloresDGA",
+      "mayrars"
     ]
   },
   "Web/Accessibility/ARIA/forms": {
@@ -10667,15 +10640,6 @@
     "modified": "2019-03-23T22:17:03.740Z",
     "contributors": [
       "israel-munoz"
-    ]
-  },
-  "Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property": {
-    "modified": "2019-03-24T00:04:04.275Z",
-    "contributors": [
-      "teoli",
-      "fscholz",
-      "Mgjbot",
-      "Jorolo"
     ]
   },
   "Web/CSS/CSS_Box_Model": {
@@ -20384,12 +20348,6 @@
       "Nachec"
     ]
   },
-  "Web/Progressive_web_apps/Responsive/Media_types": {
-    "modified": "2019-03-18T21:15:11.297Z",
-    "contributors": [
-      "luismj"
-    ]
-  },
   "Web/SVG": {
     "modified": "2019-03-23T23:44:20.243Z",
     "contributors": [
@@ -21237,6 +21195,25 @@
       "StripTM"
     ]
   },
+  "conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript": {
+    "modified": "2020-08-08T09:41:13.386Z",
+    "contributors": [
+      "Nachec",
+      "andyesp",
+      "Fernando-Funes",
+      "jhonarielgj",
+      "rimbener",
+      "ReneAG",
+      "EnekoOdoo",
+      "ivanagui2",
+      "cristianmarquezp",
+      "djdouta",
+      "paulaco",
+      "martinGerez",
+      "anyruizd",
+      "Michelangeur"
+    ]
+  },
   "conflicting/MDN/Contribute/Getting_started": {
     "modified": "2019-01-16T18:56:38.941Z",
     "contributors": [
@@ -21366,6 +21343,14 @@
     "modified": "2019-03-23T23:01:31.642Z",
     "contributors": [
       "fscholz"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition": {
+    "modified": "2019-03-23T23:16:28.831Z",
+    "contributors": [
+      "fscholz",
+      "LeoHirsch",
+      "lupomontero"
     ]
   },
   "conflicting/Web/API/HTML_Drag_and_Drop_API": {
@@ -21529,10 +21514,19 @@
       "miguelsp"
     ]
   },
-  "conflicting/Web/CSS/cursor": {
-    "modified": "2019-03-23T22:35:57.612Z",
+  "conflicting/Web/CSS/Media_Queries/Using_media_queries": {
+    "modified": "2019-03-18T21:15:11.297Z",
     "contributors": [
-      "pekechis"
+      "luismj"
+    ]
+  },
+  "conflicting/Web/CSS/cursor": {
+    "modified": "2019-03-24T00:04:04.275Z",
+    "contributors": [
+      "teoli",
+      "fscholz",
+      "Mgjbot",
+      "Jorolo"
     ]
   },
   "conflicting/Web/CSS/font-variant": {

@@ -1,16 +1,11 @@
 ---
 title: CanvasRenderingContext2D.rect()
 slug: Web/API/CanvasRenderingContext2D/rect
-tags:
-  - API
-  - Canvas
-  - CanvasRenderingContext2D
-  - Méthode
 translation_of: Web/API/CanvasRenderingContext2D/rect
 ---
 {{APIRef}}
 
-La méthode **`CanvasRenderingContext2D`\*\***`.rect()`\*_ de l'API Canvas 2D crée un chemin de rectangle à la position _(x, y)* et de dimensions *width* et *height\*. Ces quatre points sont connectés par des lignes droites et le sous-chemin est directement fermé, vous pouvez donc utiliser `fill` ou `stroke` pour dessiner ce rectangle.
+La méthode **`CanvasRenderingContext2D.rect()`** de l'API Canvas 2D crée un chemin de rectangle à la position _(x, y)_ et de dimensions *width* et *height*. Ces quatre points sont connectés par des lignes droites et le sous-chemin est directement fermé, vous pouvez donc utiliser `fill` ou `stroke` pour dessiner ce rectangle.
 
 ## Syntaxe
 
@@ -89,7 +84,7 @@ textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ## Spécifications
 

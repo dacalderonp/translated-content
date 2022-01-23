@@ -1,17 +1,11 @@
 ---
 title: CanvasRenderingContext2D.font
 slug: Web/API/CanvasRenderingContext2D/font
-tags:
-  - API
-  - Canvas
-  - CanvasRenderingContext2D
-  - Propriété
-  - Reference
 translation_of: Web/API/CanvasRenderingContext2D/font
 ---
 {{APIRef}}
 
-La propriété **`CanvasRenderingContext2D`\*\***`.font`\*\*` de l'API` Canvas 2D API spécifie le style de texte à utiliser pour dessiner du texte. Cette chaîne utilise la même syntaxe que le spécificateur de [police CSS](/fr-FR/docs/Web/CSS/font). La police par défaut est 10px sans-serif.
+La propriété **`CanvasRenderingContext2D.font`** de l'API Canvas 2D API spécifie le style de texte à utiliser pour dessiner du texte. Cette chaîne utilise la même syntaxe que le spécificateur de [police CSS](/fr-FR/docs/Web/CSS/font). La police par défaut est 10px sans-serif.
 
 ## Syntaxe
 
@@ -85,7 +79,7 @@ textarea.addEventListener('input', drawCanvas);
 window.addEventListener('load', drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ### Chargement de polices avec l'API CSS Font Loading
 

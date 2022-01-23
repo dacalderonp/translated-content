@@ -1,17 +1,11 @@
 ---
 title: CanvasRenderingContext2D.textBaseline
 slug: Web/API/CanvasRenderingContext2D/textBaseline
-tags:
-  - API
-  - Canvas
-  - CanvasRenderingContext2D
-  - Propriété
-  - Reference
 translation_of: Web/API/CanvasRenderingContext2D/textBaseline
 ---
 {{APIRef}}
 
-La propriété **`CanvasRenderingContext2D`\*\***`.textBaseline`\*\* de l'API Canvas 2D spécifie la ligne de base de texte à utiliser lors du dessin d'un texte.
+La propriété **`CanvasRenderingContext2D.textBaseline`** de l'API Canvas 2D spécifie la ligne de base de texte à utiliser lors du dessin d'un texte.
 
 ## Syntaxe
 
@@ -101,7 +95,7 @@ textarea.addEventListener('input', drawCanvas);
 window.addEventListener('load', drawCanvas);
 ```
 
-{{ EmbedLiveSample('code_jouable', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ## Spécifications
 

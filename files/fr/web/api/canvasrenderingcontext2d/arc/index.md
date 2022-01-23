@@ -1,16 +1,11 @@
 ---
 title: CanvasRenderingContext2D.arc()
 slug: Web/API/CanvasRenderingContext2D/arc
-tags:
-  - Canvas
-  - CanvasRenderingContext2D
-  - Method
-  - Reference
 translation_of: Web/API/CanvasRenderingContext2D/arc
 ---
 {{APIRef}}
 
-La méthode **`CanvasRenderingContext2D`\*\***`.arc()`\*_ de l'API Canvas 2D permet d'ajouter un arc de cercle  au tracé, en le centrant aux positions _(x, y)* et avec un rayon *r* qui démarre à *angleDépart* et qui finit à *angleFin*, dans la direction de *sensAntiHoraire\* (par défaut en sens horaire).
+La méthode **`CanvasRenderingContext2D.arc()`** de l'API Canvas 2D permet d'ajouter un arc de cercle  au tracé, en le centrant aux positions _(x, y)* et avec un rayon *r* qui démarre à *angleDépart* et qui finit à *angleFin*, dans la direction de *sensAntiHoraire* (par défaut en sens horaire).
 
 ## Syntaxe
 
@@ -96,7 +91,7 @@ textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
 ```
 
-{{ EmbedLiveSample('Playable_code', 700, 360) }}
+{{ EmbedLiveSample('Code_jouable', 700, 360) }}
 
 ### Exemple avec différentes formes
 
@@ -132,7 +127,7 @@ for (var i = 0; i < 4; i++) {
 }
 ```
 
-{{ EmbedLiveSample('Different_shapes_demonstrated', 160, 210, "canvas_arc.png") }}
+{{ EmbedLiveSample('Exemple_avec_différentes_formes', 160, 210, "canvas_arc.png") }}
 
 ## Spécifications
 
